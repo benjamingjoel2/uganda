@@ -1,3 +1,5 @@
+> **Brand name changed to Nile Source Safaris** (was Crested Crane). The owner chose travel-company names. Use Nile Source Safaris everywhere; the build prompt is brand/PROMPT.md.
+
 # Brand brief: Crested Crane (Uganda)
 
 Slug and repo: `uganda`. Country: Uganda (UG). Brand type: country. Brief v1, 2026-10-26. Facts below were checked on that date. Anything marked *verify* needs an official source before launch.
