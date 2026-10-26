@@ -1,3 +1,5 @@
+Name this Claude chat: Nile Source Safaris (Uganda)
+
 Build a travel website for Uganda in this repo, from scratch.
 
 Brand:
