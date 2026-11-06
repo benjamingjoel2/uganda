@@ -2,7 +2,7 @@
 
 A fast, static travel website for **Nile Source Safaris**, a Uganda specialist: gorillas in Bwindi, chimps in Kibale, the Nile at its source, and the birds that make Uganda the primate and birding capital of Africa.
 
-- **Live site:** https://nile-source-safaris.vercel.app
+- **Live site:** https://uganda-delta.vercel.app (Vercel project `uganda`, team “Benjamin - Sevo”)
 - **Planned domain:** https://nilesourcesafaris.tourground.com (used for canonical links, sitemap and structured data)
 - **Contact:** nilesourcesafaris@tourground.com
 
@@ -82,6 +82,8 @@ All photos are Creative Commons images from Wikimedia Commons, each taken at the
 ## The enquiry form
 
 The form posts to [FormSubmit](https://formsubmit.co), which forwards each enquiry to the email in `site.config.mjs`. With JavaScript it sends in the background and shows a confirmation on the page; without JavaScript it posts normally and returns to `/thank-you`. The route planner and destination pages pre-fill the form through the link.
+
+If the form service does not answer within 15 seconds, the page offers the visitor a ready-written email with all their details, so no enquiry is lost.
 
 **One-time setup:** the first submission makes FormSubmit send an activation email to nilesourcesafaris@tourground.com. Click the link in it once; after that every enquiry is delivered. To use a different service, change `form.endpoint` and `form.ajaxEndpoint` in `site.config.mjs`.
 

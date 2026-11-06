@@ -40,18 +40,26 @@
     const fd = new FormData(form);
     const payload = {};
     for (const [k, v] of fd.entries()) payload[k] = payload[k] ? `${payload[k]}, ${v}` : v;
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 15000);
     try {
       const res = await fetch(form.dataset.ajax || form.action.replace('formsubmit.co/', 'formsubmit.co/ajax/'), {
-        method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(payload),
+        method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(payload), signal: ctrl.signal,
       });
+      clearTimeout(timer);
       const j = await res.json().catch(() => ({}));
       if (!res.ok || j.success === 'false' || j.success === false) throw new Error(j.message || 'failed');
       form.reset();
       status.classList.remove('is-error');
       status.innerHTML = '<strong>Thank you. Your enquiry is on its way.</strong> A planner will reply to the email address you gave us.';
     } catch (err) {
+      clearTimeout(timer);
+      // Never lose an enquiry: offer the same details as a ready-written email.
+      const skip = ['_subject', '_template', '_next', '_captcha', '_honey', 'consent'];
+      const lines = Object.entries(payload).filter(([k, v]) => v && !skip.includes(k)).map(([k, v]) => `${k.replace(/_/g, ' ')}: ${v}`);
+      const href = `mailto:${form.dataset.email}?subject=${encodeURIComponent('Enquiry')}&body=${encodeURIComponent(lines.join('\n'))}`;
       status.classList.add('is-error');
-      status.innerHTML = `<strong>Sorry, that did not send.</strong> Please try again, or email us directly at <a href="mailto:${form.dataset.email}">${form.dataset.email}</a>.`;
+      status.innerHTML = `<strong>Our form service did not respond.</strong> Your details are still here. <a href="${href}">Send them by email instead</a> (opens your email app with everything filled in), or write to <a href="mailto:${form.dataset.email}">${form.dataset.email}</a>.`;
     }
     status.hidden = false; status.focus();
     btn.disabled = false; btn.firstChild.textContent = 'Send enquiry ';
