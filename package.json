@@ -1,0 +1,20 @@
+{
+  "name": "nile-source-safaris",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static site for Nile Source Safaris (Uganda).",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "serve": "node scripts/serve.mjs",
+    "images": "node scripts/images.mjs",
+    "fonts": "node scripts/fonts.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
+}

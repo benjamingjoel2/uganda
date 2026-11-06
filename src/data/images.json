@@ -1,0 +1,988 @@
+{
+ "hero-crane": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29_mating_display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Grey_crowned_crane_(Balearica_regulorum_gibbericeps)_mating_display.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Grey crowned crane (Balearica regulorum gibbericeps) mating display.jpg",
+  "width": 3713,
+  "height": 2475,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(104,120,56)"
+ },
+ "crane-flight": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29_in_flight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Grey_crowned_crane_(Balearica_regulorum_gibbericeps)_in_flight.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Grey crowned crane (Balearica regulorum gibbericeps) in flight.jpg",
+  "width": 2234,
+  "height": 1490,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(136,152,184)"
+ },
+ "crane-pair": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29_pair.jpg/3840px-Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29_pair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Grey_crowned_crane_(Balearica_regulorum_gibbericeps)_pair.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Grey crowned crane (Balearica regulorum gibbericeps) pair.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(104,136,56)"
+ },
+ "crane-head": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29_Echuya_Uganda.jpg/3840px-Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29_Echuya_Uganda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Grey_crowned_crane_(Balearica_regulorum_gibbericeps)_Echuya_Uganda.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Grey crowned crane (Balearica regulorum gibbericeps) Echuya Uganda.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(152,152,72)"
+ },
+ "papyrus-mist": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fog_over_papyrus_reeds_in_a_swamp_in_western_Uganda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Fog_over_papyrus_reeds_in_a_swamp_in_western_Uganda.jpg",
+  "author": "BalukuBrian",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Fog over papyrus reeds in a swamp in western Uganda.jpg",
+  "width": 3520,
+  "height": 1986,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(184,216,216)"
+ },
+ "kampala": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Uganda_-_View_on_Kampala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Uganda_-_View_on_Kampala.jpg",
+  "author": "Dylan Walters",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "title": "Uganda - View on Kampala.jpg",
+  "width": 3008,
+  "height": 2000,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(184,184,200)"
+ },
+ "kampala-lake": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Munyoyno_overview.jpg/3840px-Munyoyno_overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Munyoyno_overview.jpg",
+  "author": "Wulman83",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "title": "Munyoyno overview.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(184,200,216)"
+ },
+ "entebbe-shore": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Beach_within_Botanical_Garden%2C_Entebbe%2C_Uganda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Beach_within_Botanical_Garden,_Entebbe,_Uganda.jpg",
+  "author": "Rcdwealth",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "title": "Beach within Botanical Garden, Entebbe, Uganda.jpg",
+  "width": 2560,
+  "height": 1440,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(200,216,232)"
+ },
+ "mabamba-canoe": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mabamba_swamp_guide_20250815.jpg/3840px-Mabamba_swamp_guide_20250815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Mabamba_swamp_guide_20250815.jpg",
+  "author": "Z thomas",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "title": "Mabamba swamp guide 20250815.jpg",
+  "width": 3840,
+  "height": 2162,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "shoebill": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Shoebill_%28Balaeniceps_rex%29%2C_Uganda_%2852949464409%29.jpg/3840px-Shoebill_%28Balaeniceps_rex%29%2C_Uganda_%2852949464409%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Shoebill_(Balaeniceps_rex),_Uganda_(52949464409).jpg",
+  "author": "flowcomm",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "title": "Shoebill (Balaeniceps rex), Uganda (52949464409).jpg",
+  "width": 3840,
+  "height": 2430,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(120,120,56)"
+ },
+ "bwindi-mist": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/063_Mist_rising_from_the_Bwindi_Impenetrable_Forest_National_Park_Photo_by_Giles_Laurent.jpg/3840px-063_Mist_rising_from_the_Bwindi_Impenetrable_Forest_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:063_Mist_rising_from_the_Bwindi_Impenetrable_Forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "063 Mist rising from the Bwindi Impenetrable Forest National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "gorilla-bwindi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gorila_de_monta%C3%B1a_%28Gorilla_beringei_beringei%29%2C_parque_nacional_de_la_Selva_Impenetrable_de_Bwindi%2C_Uganda%2C_2024-02-02%2C_DD_80.jpg/3840px-Gorila_de_monta%C3%B1a_%28Gorilla_beringei_beringei%29%2C_parque_nacional_de_la_Selva_Impenetrable_de_Bwindi%2C_Uganda%2C_2024-02-02%2C_DD_80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Gorila_de_monta%C3%B1a_(Gorilla_beringei_beringei),_parque_nacional_de_la_Selva_Impenetrable_de_Bwindi,_Uganda,_2024-02-02,_DD_80.jpg",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Gorila de montaña (Gorilla beringei beringei), parque nacional de la Selva Impenetrable de Bwindi, Uganda, 2024-02-02, DD 80.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(40,40,40)"
+ },
+ "gorilla-buhoma": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mountain_gorilla%2C_2-year-old%2C_Mubare_Group%2C_Buhoma%2C_Bwindi_Impenetrable_Forest%2C_Uganda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Mountain_gorilla,_2-year-old,_Mubare_Group,_Buhoma,_Bwindi_Impenetrable_Forest,_Uganda.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Mountain gorilla, 2-year-old, Mubare Group, Buhoma, Bwindi Impenetrable Forest, Uganda.jpg",
+  "width": 2880,
+  "height": 1920,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(40,40,40)"
+ },
+ "gorilla-tree": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/064_Mountain_gorilla_climbing_a_tree_at_Bwindi_Impenetrable_Forest_National_Park_%28crop%29_Photo_by_Giles_Laurent.jpg/3840px-064_Mountain_gorilla_climbing_a_tree_at_Bwindi_Impenetrable_Forest_National_Park_%28crop%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:064_Mountain_gorilla_climbing_a_tree_at_Bwindi_Impenetrable_Forest_National_Park_(crop)_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "064 Mountain gorilla climbing a tree at Bwindi Impenetrable Forest National Park (crop) Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 4800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(40,40,56)"
+ },
+ "gorilla-close": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/068_Mountain_gorilla_close-up_at_Bwindi_Impenetrable_Forest_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:068_Mountain_gorilla_close-up_at_Bwindi_Impenetrable_Forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "068 Mountain gorilla close-up at Bwindi Impenetrable Forest National Park Photo by Giles Laurent.jpg",
+  "width": 3744,
+  "height": 4680,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "gorilla-juvenile": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Gorila_de_monta%C3%B1a_%28Gorilla_beringei_beringei%29%2C_parque_nacional_de_la_Selva_Impenetrable_de_Bwindi%2C_Uganda%2C_2024-02-02%2C_DD_36.jpg/3840px-Gorila_de_monta%C3%B1a_%28Gorilla_beringei_beringei%29%2C_parque_nacional_de_la_Selva_Impenetrable_de_Bwindi%2C_Uganda%2C_2024-02-02%2C_DD_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Gorila_de_monta%C3%B1a_(Gorilla_beringei_beringei),_parque_nacional_de_la_Selva_Impenetrable_de_Bwindi,_Uganda,_2024-02-02,_DD_36.jpg",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Gorila de montaña (Gorilla beringei beringei), parque nacional de la Selva Impenetrable de Bwindi, Uganda, 2024-02-02, DD 36.jpg",
+  "width": 3840,
+  "height": 2530,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "gorilla-silverback": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/066_Silverback_mountain_gorilla_eating_at_Bwindi_Impenetrable_Forest_National_Park_Photo_by_Giles_Laurent.jpg/3840px-066_Silverback_mountain_gorilla_eating_at_Bwindi_Impenetrable_Forest_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:066_Silverback_mountain_gorilla_eating_at_Bwindi_Impenetrable_Forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "066 Silverback mountain gorilla eating at Bwindi Impenetrable Forest National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(56,56,56)"
+ },
+ "buhoma-trek": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Views_from_the_Buhoma_Trek1.jpg/3840px-Views_from_the_Buhoma_Trek1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Views_from_the_Buhoma_Trek1.jpg",
+  "author": "sussexbirder",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "title": "Views from the Buhoma Trek1.jpg",
+  "width": 3840,
+  "height": 2880,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(8,24,8)"
+ },
+ "mgahinga-volcanoes": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mgahinga_Gorilla_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Mgahinga_Gorilla_National_Park.jpg",
+  "author": "Byekwaso Blasio",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Mgahinga Gorilla National Park.jpg",
+  "width": 2540,
+  "height": 1030,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(152,216,248)"
+ },
+ "mgahinga-gorilla": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mgahinga_Gorilla_National_Park%2C_Uganda_%2831467109861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Mgahinga_Gorilla_National_Park,_Uganda_(31467109861).jpg",
+  "author": "Nina R from Africa",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "title": "Mgahinga Gorilla National Park, Uganda (31467109861).jpg",
+  "width": 3042,
+  "height": 1994,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(24,24,24)"
+ },
+ "mgahinga-trek": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Visitors_trekking_in_Mgahinga_Gorilla_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Visitors_trekking_in_Mgahinga_Gorilla_National_Park.jpg",
+  "author": "Happyartst",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Visitors trekking in Mgahinga Gorilla National Park.jpg",
+  "width": 2993,
+  "height": 2253,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(24,24,8)"
+ },
+ "golden-monkey": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Golden_monkey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Golden_monkey.JPG",
+  "author": "Marie de Carne",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Golden monkey.JPG",
+  "width": 2469,
+  "height": 1640,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(24,24,24)"
+ },
+ "chimp-alpha": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/3840px-013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "013 Alpha male chimpanzee at Kibale forest National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "chimp-face": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Chimpanzee%2C_Kibale_National_Park%2C_Uganda_%2852938250820%29.jpg/3840px-Chimpanzee%2C_Kibale_National_Park%2C_Uganda_%2852938250820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Chimpanzee,_Kibale_National_Park,_Uganda_(52938250820).jpg",
+  "author": "flowcomm",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "title": "Chimpanzee, Kibale National Park, Uganda (52938250820).jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "chimp-mother": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/006_Chimpanzee_mother_and_baby_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/3840px-006_Chimpanzee_mother_and_baby_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:006_Chimpanzee_mother_and_baby_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "006 Chimpanzee mother and baby at Kibale forest National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(232,232,232)"
+ },
+ "red-colobus": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/008_Red_colobus_mother_carrying_her_baby_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/3840px-008_Red_colobus_mother_carrying_her_baby_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:008_Red_colobus_mother_carrying_her_baby_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "008 Red colobus mother carrying her baby at Kibale forest National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(56,56,40)"
+ },
+ "great-blue-turaco": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/017_Great_blue_turaco_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/3840px-017_Great_blue_turaco_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:017_Great_blue_turaco_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "017 Great blue turaco at Kibale forest National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(40,88,8)"
+ },
+ "ross-turaco": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/012_Ross%27s_turaco_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:012_Ross%27s_turaco_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "012 Ross's turaco at Kibale forest National Park Photo by Giles Laurent.jpg",
+  "width": 3826,
+  "height": 4782,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "rwenzori-turaco": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ruwenzori_Turaco%2C_Rwenzori_National_Park%2C_Uganda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Ruwenzori_Turaco,_Rwenzori_National_Park,_Uganda.jpg",
+  "author": "Original: Jgdb500. This edit: MPF",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Ruwenzori Turaco, Rwenzori National Park, Uganda.jpg",
+  "width": 2400,
+  "height": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "long-crested-eagle": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/026_Long-crested_eagle_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/3840px-026_Long-crested_eagle_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:026_Long-crested_eagle_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "026 Long-crested eagle at Kibale forest National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 2561,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "crater-lake": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Nyakasura_Crater_Lake_from_the_top_of_the_Nyakasura_Hills_03.jpg/3840px-Nyakasura_Crater_Lake_from_the_top_of_the_Nyakasura_Hills_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Nyakasura_Crater_Lake_from_the_top_of_the_Nyakasura_Hills_03.jpg",
+  "author": "Fiktube",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Nyakasura Crater Lake from the top of the Nyakasura Hills 03.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "lake-nkuruba": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Lake_Nkuruba_Reflections.jpg/3840px-Lake_Nkuruba_Reflections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_Nkuruba_Reflections.jpg",
+  "author": "Timothy Akolamazima",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Lake Nkuruba Reflections.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(8,72,8)"
+ },
+ "qenp-tree-lion": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/051_Lion_on_a_tree_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg/3840px-051_Lion_on_a_tree_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:051_Lion_on_a_tree_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "051 Lion on a tree at Queen Elizabeth National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(216,232,232)"
+ },
+ "qenp-elephants": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/043_Elephant_family_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg/3840px-043_Elephant_family_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:043_Elephant_family_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "043 Elephant family at Queen Elizabeth National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 3072,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(184,152,120)"
+ },
+ "qenp-lioness": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/048_Lioness_during_golden_hour_of_the_morning_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg/3840px-048_Lioness_during_golden_hour_of_the_morning_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:048_Lioness_during_golden_hour_of_the_morning_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "048 Lioness during golden hour of the morning at Queen Elizabeth National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(168,152,56)"
+ },
+ "qenp-kob": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/030_Ugandan_kob_male_portrait_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg/3840px-030_Ugandan_kob_male_portrait_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:030_Ugandan_kob_male_portrait_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "030 Ugandan kob male portrait at Queen Elizabeth National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 3840,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(136,152,88)"
+ },
+ "kazinga": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kazinga_channel_Uganda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Kazinga_channel_Uganda.jpg",
+  "author": "Duncan Wright",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "title": "Kazinga channel Uganda.jpg",
+  "width": 2272,
+  "height": 1704,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "ishasha-lions": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Tree-climbing_lions_%28Panthera_leo%29.jpg/3840px-Tree-climbing_lions_%28Panthera_leo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Tree-climbing_lions_(Panthera_leo).jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Tree-climbing lions (Panthera leo).jpg",
+  "width": 3840,
+  "height": 2486,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(56,56,40)"
+ },
+ "pied-kingfisher": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/055_Pied_kingfisher_eating_a_fish_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg/3840px-055_Pied_kingfisher_eating_a_fish_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:055_Pied_kingfisher_eating_a_fish_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "055 Pied kingfisher eating a fish at Queen Elizabeth National Park Photo by Giles Laurent.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(40,56,8)"
+ },
+ "murchison-falls": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Murchison_Falls%2C_Uganda_%2823475021234%29.jpg/3840px-Murchison_Falls%2C_Uganda_%2823475021234%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Murchison_Falls,_Uganda_(23475021234).jpg",
+  "author": "Rod Waddington",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "title": "Murchison Falls, Uganda (23475021234).jpg",
+  "width": 3840,
+  "height": 5323,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(216,216,216)"
+ },
+ "murchison-river": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Power_of_Murchison_Falls_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Power_of_Murchison_Falls_01.jpg",
+  "author": "Ssemmanda will",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "The Power of Murchison Falls 01.jpg",
+  "width": 3440,
+  "height": 2288,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(184,200,216)"
+ },
+ "murchison-top": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Murchison_Falls_from_above.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Murchison_Falls_from_above.jpg",
+  "author": "Oliver Sedlacek",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "title": "Murchison Falls from above.jpg",
+  "width": 1760,
+  "height": 1174,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(216,216,232)"
+ },
+ "giraffe": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Rothschild%27s_giraffe_%28Giraffa_camelopardalis_rothschildi%29_-_Murchison_Falls_National_Park.jpg/3840px-Rothschild%27s_giraffe_%28Giraffa_camelopardalis_rothschildi%29_-_Murchison_Falls_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Rothschild%27s_giraffe_(Giraffa_camelopardalis_rothschildi)_-_Murchison_Falls_National_Park.jpg",
+  "author": "Thomas Fuhrmann",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Rothschild's giraffe (Giraffa camelopardalis rothschildi) - Murchison Falls National Park.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(168,184,216)"
+ },
+ "ground-hornbill": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Abyssinian_ground_hornbill_%28Bucorvus_abyssinicus%29_-_Murchison_Falls_National_Park_04.jpg/3840px-Abyssinian_ground_hornbill_%28Bucorvus_abyssinicus%29_-_Murchison_Falls_National_Park_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Abyssinian_ground_hornbill_(Bucorvus_abyssinicus)_-_Murchison_Falls_National_Park_04.jpg",
+  "author": "Thomas Fuhrmann",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Abyssinian ground hornbill (Bucorvus abyssinicus) - Murchison Falls National Park 04.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(184,184,120)"
+ },
+ "carmine-bee-eater": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Northern_carmine_bee-eater_%28Merops_nubicus%29_-_Murchison_Falls_National_Park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Northern_carmine_bee-eater_(Merops_nubicus)_-_Murchison_Falls_National_Park_01.jpg",
+  "author": "Thomas Fuhrmann",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Northern carmine bee-eater (Merops nubicus) - Murchison Falls National Park 01.jpg",
+  "width": 3292,
+  "height": 2195,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(136,152,184)"
+ },
+ "bunyonyi-islands": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Lake_Bunyonyi_Islands_06.jpg/3840px-Lake_Bunyonyi_Islands_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_Bunyonyi_Islands_06.jpg",
+  "author": "Shaayflix Dr Shaay",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Lake Bunyonyi Islands 06.jpg",
+  "width": 3840,
+  "height": 2550,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(184,200,216)"
+ },
+ "bunyonyi-dusk": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Lake_Bunyonyi_%28%22Place_of_many_little_birds%22%29.jpg/3840px-Lake_Bunyonyi_%28%22Place_of_many_little_birds%22%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_Bunyonyi_(%22Place_of_many_little_birds%22).jpg",
+  "author": "Thomas Fuhrmann",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Lake Bunyonyi (\"Place of many little birds\").jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(8,8,8)"
+ },
+ "bunyonyi-terraces": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/View_of_Lake_Bunyonyi_in_Kabaale_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:View_of_Lake_Bunyonyi_in_Kabaale_District.jpg",
+  "author": "Sjoerdug",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "View of Lake Bunyonyi in Kabaale District.jpg",
+  "width": 3620,
+  "height": 2036,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(88,152,200)"
+ },
+ "rwenzori-peaks": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Alexandra_Peak_Margherita_Peak_Rwenzori.jpg/3840px-Alexandra_Peak_Margherita_Peak_Rwenzori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Alexandra_Peak_Margherita_Peak_Rwenzori.jpg",
+  "author": "Rafał Kozubek",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Alexandra Peak Margherita Peak Rwenzori.jpg",
+  "width": 3840,
+  "height": 2880,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(8,88,168)"
+ },
+ "rwenzori-lake": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Lower_Kitandara_Lake.jpg/3840px-Lower_Kitandara_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Lower_Kitandara_Lake.jpg",
+  "author": "Rafał Kozubek",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Lower Kitandara Lake.jpg",
+  "width": 3840,
+  "height": 2880,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(232,232,232)"
+ },
+ "rwenzori-groundsels": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Ruwenzori_Vegetation_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Ruwenzori_Vegetation_4.jpg",
+  "author": "Albert Backer",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Ruwenzori Vegetation 4.jpg",
+  "width": 2592,
+  "height": 1614,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(40,40,24)"
+ },
+ "jinja-nile": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Source_of_the_Nile_in_Jinja_PICT0147.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Source_of_the_Nile_in_Jinja_PICT0147.JPG",
+  "author": "Ina96",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "title": "Source of the Nile in Jinja PICT0147.JPG",
+  "width": 2048,
+  "height": 1536,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(184,200,216)"
+ },
+ "jinja-rapids": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/River_Nile%2C_Jinja%2C_Uganda.jpg/3840px-River_Nile%2C_Jinja%2C_Uganda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:River_Nile,_Jinja,_Uganda.jpg",
+  "author": "Owobusingye",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "title": "River Nile, Jinja, Uganda.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(200,200,216)"
+ },
+ "jinja-rafting": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/RAFTING_ON_THE_SOURCE_OF_THE_NILE_02.jpg/3840px-RAFTING_ON_THE_SOURCE_OF_THE_NILE_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:RAFTING_ON_THE_SOURCE_OF_THE_NILE_02.jpg",
+  "author": "LAKATO SAFARIS",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "RAFTING ON THE SOURCE OF THE NILE 02.jpg",
+  "width": 3840,
+  "height": 2560,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(184,184,184)"
+ },
+ "kidepo-valley": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Kidepo_Valley_National_Park_18.jpg/3840px-Kidepo_Valley_National_Park_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Kidepo_Valley_National_Park_18.jpg",
+  "author": "Kateregga1",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Kidepo Valley National Park 18.jpg",
+  "width": 3840,
+  "height": 2160,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(232,232,232)"
+ },
+ "kidepo-sunset": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Kidepo_Valley_National_Park_20.jpg/3840px-Kidepo_Valley_National_Park_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Kidepo_Valley_National_Park_20.jpg",
+  "author": "Kateregga1",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Kidepo Valley National Park 20.jpg",
+  "width": 3840,
+  "height": 2160,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(200,200,216)"
+ },
+ "kidepo-elephants": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Elephants_in_Kidepo_Valley_National_Park_03.jpg/3840px-Elephants_in_Kidepo_Valley_National_Park_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Elephants_in_Kidepo_Valley_National_Park_03.jpg",
+  "author": "Kateregga1",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "title": "Elephants in Kidepo Valley National Park 03.jpg",
+  "width": 3840,
+  "height": 2160,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(88,184,248)"
+ },
+ "black-bee-eater": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Merops_gularis_australis%2C_Bwindi_Impenetrable_Forest%2C_Uganda_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Merops_gularis_australis,_Bwindi_Impenetrable_Forest,_Uganda_2.jpg",
+  "author": "sandykeller",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "title": "Merops gularis australis, Bwindi Impenetrable Forest, Uganda 2.jpg",
+  "width": 2048,
+  "height": 1666,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "color": "rgb(248,248,248)"
+ }
+}
