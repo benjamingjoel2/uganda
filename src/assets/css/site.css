@@ -1,15 +1,15 @@
 /* Nile Source Safaris — Crown and Papyrus.
    Colour tokens are injected from site.config.mjs at build time (:root block). */
 
-@font-face { font-family: 'Rozha One'; src: url('/assets/fonts/rozha-one-400.woff2') format('woff2'); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Playfair Display'; src: url('/assets/fonts/playfair-display-500.woff2') format('woff2'); font-weight: 500; font-style: normal; font-display: swap; }
 @font-face { font-family: 'Mukta'; src: url('/assets/fonts/mukta-400.woff2') format('woff2'); font-weight: 400; font-style: normal; font-display: swap; }
 @font-face { font-family: 'Mukta'; src: url('/assets/fonts/mukta-600.woff2') format('woff2'); font-weight: 600; font-style: normal; font-display: swap; }
 /* metric-matched fallbacks keep CLS near zero while fonts swap in */
-@font-face { font-family: 'Rozha Fallback'; src: local('Georgia'), local('Times New Roman'); size-adjust: 104%; ascent-override: 88%; descent-override: 30%; }
+@font-face { font-family: 'Playfair Fallback'; src: local('Georgia'), local('Times New Roman'); size-adjust: 109%; ascent-override: 99%; descent-override: 23%; }
 @font-face { font-family: 'Mukta Fallback'; src: local('Arial'), local('Helvetica'); size-adjust: 96%; ascent-override: 110%; descent-override: 48%; }
 
 :root {
-  --display: 'Rozha One', 'Rozha Fallback', Georgia, serif;
+  --display: 'Playfair Display', 'Playfair Fallback', Georgia, serif;
   --sans: 'Mukta', 'Mukta Fallback', system-ui, sans-serif;
   --pad: clamp(16px, 3.4vw, 48px);
   --gap: clamp(16px, 2vw, 24px);
@@ -41,8 +41,8 @@ ul, ol { margin: 0; padding: 0; }
 .skip:focus { top: 12px; }
 
 /* ── Type ─────────────────────────────────────────────────────────────── */
-.display, .h1, .h2, .h3 { font-family: var(--display); font-weight: 400; letter-spacing: -.01em; }
-.display { font-size: var(--fs-hero); line-height: .9; letter-spacing: -.02em; }
+.display, .h1, .h2, .h3 { font-family: var(--display); font-weight: 500; letter-spacing: -.015em; }
+.display { font-size: var(--fs-hero); line-height: .95; letter-spacing: -.025em; }
 .h1 { font-size: var(--fs-h1); line-height: .95; }
 .h2 { font-size: var(--fs-h2); line-height: 1; }
 .h3 { font-size: var(--fs-h3); line-height: 1.1; }

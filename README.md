@@ -94,13 +94,13 @@ Mobile-first and built for Core Web Vitals:
 - CSS is inlined; JavaScript is small, deferred and page-specific (no frameworks, no libraries)
 - the hero image is preloaded with `fetchpriority="high"`; all other images lazy-load
 - every image has `srcset`/`sizes`, AVIF with a WebP fallback, and width and height to prevent layout shift
-- three font files only (Rozha One 400, Mukta 400 and 600), self-hosted, preloaded, `font-display: swap`, with metric-matched fallbacks
+- three font files only (Playfair Display 500, Mukta 400 and 600), self-hosted, preloaded, `font-display: swap`, with metric-matched fallbacks
 - off-screen sections use `content-visibility: auto`
 - no cookies, analytics or third-party scripts
 
 ## Design
 
-Theme **Crown and Papyrus**: the golden crown of the crested crane as the signature shape (logo mark, dividers, favicon), papyrus stems as fine vertical lines, soft forest mist over photos. Rozha One (high-contrast display serif) for headings, Mukta for text. Palette: crane grey, crown gold, papyrus green, forest dark and swamp-water brown, all text pairs WCAG AA. Layout is left-aligned and full-bleed with small side margins.
+Theme **Crown and Papyrus**: the golden crown of the crested crane as the signature shape (logo mark, dividers, favicon), papyrus stems as fine vertical lines, soft forest mist over photos. Playfair Display (high-contrast display serif) for headings, Mukta for text. Palette: crane grey, crown gold, papyrus green, forest dark and swamp-water brown, all text pairs WCAG AA. Layout is left-aligned and full-bleed with small side margins.
 
 ## Project files
 

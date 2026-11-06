@@ -196,7 +196,7 @@ export function layout({ path, title, description, body, heroImage, plain = fals
 <meta property="og:image" content="${ogUrl}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="${ctx.assets['favicon.svg']}" type="image/svg+xml">
-<link rel="preload" href="${ctx.assets['fonts/rozha-one-400.woff2']}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="${ctx.assets['fonts/playfair-display-500.woff2']}" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="${ctx.assets['fonts/mukta-400.woff2']}" as="font" type="font/woff2" crossorigin>
 ${heroImage ? preloadImage(heroImage) : ''}
 <style>${ctx.css}</style>

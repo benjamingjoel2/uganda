@@ -56,7 +56,7 @@ export default {
   },
 
   fonts: {
-    display: { family: 'Rozha One', file: 'rozha-one-400.woff2', weight: 400 },
+    display: { family: 'Playfair Display', file: 'playfair-display-500.woff2', weight: 500 },
     text: [
       { family: 'Mukta', file: 'mukta-400.woff2', weight: 400 },
       { family: 'Mukta', file: 'mukta-600.woff2', weight: 600 },
