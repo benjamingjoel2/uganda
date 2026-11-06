@@ -63,21 +63,17 @@ export function home() {
   const body = html`
 <section class="hero hero--home" aria-labelledby="hero-title">
   ${picture('hero-crane', { sizes: '100vw', eager: true, priority: true, position: '50% 30%' })}
-  <div class="hero__top"><p class="fig"><b>Fig. 01</b>Grey crowned crane, papyrus edge near Lake Bunyonyi</p><p class="fig">00°19′N 32°35′E · Kampala</p></div>
   <div class="hero__body">
-    <h1 class="display hero__title" id="hero-title">Uganda, from the source.</h1>
-    <p class="hero__lede">The primate and birding capital of Africa: gorillas in Bwindi, chimps in Kibale, the Nile where it begins and lions in the fig trees, with real guides.</p>
-  </div>
-  <div class="hero__bar">
-    <ul class="hero__meta"><li>Gorillas · Bwindi</li><li>Chimps · Kibale</li><li>The Nile · Jinja</li><li>Tree lions · Ishasha</li></ul>
-    ${btn('/enquire', 'Plan a journey', 'btn--light')}
+    <h1 class="hero__title hero__title--small" id="hero-title">Uganda, from the source.</h1>
+    <p class="hero__lede">Gorillas in Bwindi, chimps in Kibale, the Nile where it begins and lions in the fig trees, with real guides.</p>
+    <p class="hero__link">${linkArrow('/enquire', 'Plan a journey')}</p>
   </div>
 </section>
 
 <section class="section wrap" aria-labelledby="intro-title">
   <div class="grid intro">
     <div class="intro__text" data-reveal>
-      <div class="crown-rule">${crown()}</div>
+      
       <span class="eyebrow">Uganda, planned by forest, river and swamp</span>
       <h2 class="h2" id="intro-title">The edges are where Uganda happens.</h2>
       <p class="lede">Forest meets savannah at Kibale and Queen Elizabeth. The Nile forces itself through a gap at Murchison. Bwindi’s ridges fall into Congo on one side and farmland on the other.</p>
@@ -116,7 +112,7 @@ export function home() {
   ${stems('right', 7)}
   <div class="wrap band-split">
     <div data-reveal>
-      <div class="crown-rule">${crown()}</div>
+      
       <span class="eyebrow">The Bird List</span>
       <h2 class="h2" id="birds-title">A shoebill before breakfast.</h2>
       <p class="lede mt-m">Uganda’s big birds in one field guide: where to find them, which months, and how likely you are to see them, in words rather than promises.</p>
@@ -196,7 +192,7 @@ export function destination(d) {
 <section class="section wrap">
   <div class="grid intro">
     <div class="intro__text" data-reveal>
-      <div class="crown-rule">${crown()}</div>
+      
       <span class="eyebrow">Overview</span>
       ${d.intro.map((p, i) => `<p class="${i === 0 ? 'lede' : 'muted'}">${esc(p)}</p>`).join('')}
     </div>

@@ -2,8 +2,7 @@
 
 A fast, static travel website for **Nile Source Safaris**, a Uganda specialist: gorillas in Bwindi, chimps in Kibale, the Nile at its source, and the birds that make Uganda the primate and birding capital of Africa.
 
-- **Live site:** https://uganda-delta.vercel.app (Vercel project `uganda`, team “Benjamin - Sevo”)
-- **Planned domain:** https://nilesourcesafaris.tourground.com (used for canonical links, sitemap and structured data)
+- **Live site:** https://nilesourcesafaris.tourground.com (Vercel project `uganda`, team “Benjamin - Sevo”; also served at https://uganda-delta.vercel.app)
 - **Contact:** nilesourcesafaris@tourground.com
 
 ## Run it
@@ -100,7 +99,7 @@ Mobile-first and built for Core Web Vitals:
 
 ## Design
 
-Theme **Crown and Papyrus**: the golden crown of the crested crane as the signature shape (logo mark, dividers, favicon), papyrus stems as fine vertical lines, soft forest mist over photos. Playfair Display (high-contrast display serif) for headings, Mukta for text. Palette: crane grey, crown gold, papyrus green, forest dark and swamp-water brown, all text pairs WCAG AA. Layout is left-aligned and full-bleed with small side margins.
+Theme **Crown and Papyrus**: the golden crown of the crested crane as the signature shape (logo mark and favicon). The home hero is a full photo with a small headline bottom-left, one line and one link; a short photo band and compact columns close every page. No dividers, decorative stems, fog over photos, gauges or giant words (owner rules, Nov 2026). Playfair Display (high-contrast display serif) for headings, Mukta for text. Palette: crane grey, crown gold, papyrus green, forest dark and swamp-water brown, all text pairs WCAG AA. Layout is left-aligned and full-bleed with small side margins.
 
 ## Project files
 

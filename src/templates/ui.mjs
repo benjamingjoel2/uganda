@@ -22,28 +22,13 @@ export const crown = (cls = '') => {
   }
   return `<svg class="${cls}" viewBox="0 0 48 34" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" aria-hidden="true" focusable="false">${lines}<circle cx="24" cy="30" r="2.2" fill="currentColor" stroke="none"/></svg>`;
 };
-// Papyrus stems: thin verticals topped by umbels.
-export const stems = (side = 'right', count = 5) => {
-  let g = '';
-  const w = count * 22 + 20;
-  for (let i = 0; i < count; i++) {
-    const x = 14 + i * 22 + (i % 2 ? 4 : 0);
-    const top = 40 + ((i * 37) % 90);
-    g += `<line x1="${x}" y1="600" x2="${x + (i % 2 ? -3 : 3)}" y2="${top}"/>`;
-    for (let k = 0; k < 9; k++) {
-      const a = (-70 + k * 17.5) * (Math.PI / 180);
-      const L = 22 + (k % 3) * 4;
-      const cx = x + (i % 2 ? -3 : 3);
-      g += `<line x1="${cx}" y1="${top}" x2="${(cx + Math.sin(a) * L).toFixed(1)}" y2="${(top - Math.cos(a) * L * 0.8).toFixed(1)}"/>`;
-    }
-  }
-  return `<div class="stems stems--${side}" aria-hidden="true"><svg viewBox="0 0 ${w} 600" preserveAspectRatio="xMidYMax meet" fill="none" stroke="currentColor" stroke-width="1">${g}</svg></div>`;
-};
+// Papyrus stems are retired (owner rule: no repeated decorative drawings); a no-op keeps callers working.
+export const stems = () => '';
 export const arrow = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M1 8h13M9 3l5 5-5 5"/></svg>';
 export const arrowL = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M15 8H2M7 3 2 8l5 5"/></svg>';
 export const chev = '<svg viewBox="0 0 10 6" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="m1 1 4 4 4-4"/></svg>';
-export const linkArrow = (href, text, extra = '') => `<a class="link-arrow" href="${href}"${extra}><span class="circ">${arrow}</span><span>${esc(text)}</span></a>`;
-export const btn = (href, text, cls = '') => `<a class="btn ${cls}" href="${href}">${esc(text)} <span class="arr" aria-hidden="true">→</span></a>`;
+export const linkArrow = (href, text, extra = '') => `<a class="link-arrow" href="${href}"${extra}><span>${esc(text)}</span> <span class="arr" aria-hidden="true">→</span></a>`;
+export const btn = (href, text, cls = '') => `<a class="btn ${cls}" href="${href}">${esc(text)}</a>`;
 
 // ── Images ──────────────────────────────────────────────────────────────
 // picture(key, { sizes, eager, alt, cls, priority })
@@ -107,7 +92,7 @@ export function header(current = '') {
         <li><a href="/about"${cur('about')}>About</a></li>
       </ul>
     </nav>
-    <a class="btn btn--sm" href="/enquire">Plan a journey <span class="arr" aria-hidden="true">→</span></a>
+    <a class="btn btn--sm" href="/enquire">Plan a journey</a>
     <button class="menu-btn" type="button" aria-expanded="false" aria-controls="mobile-menu"><i aria-hidden="true"></i>Menu</button>
   </div>
   <div class="mobile-menu on-dark" id="mobile-menu" hidden>
@@ -121,7 +106,7 @@ export function header(current = '') {
         <li><a href="/journal">Journal</a></li>
         <li><a href="/about">About</a></li>
       </ul>
-      <a class="btn btn--crown" href="/enquire">Plan a journey <span class="arr" aria-hidden="true">→</span></a>
+      <a class="btn btn--crown" href="/enquire">Plan a journey</a>
       <p class="mm-contact"><a href="mailto:${config.contact.email}">${config.contact.email}</a></p>
     </nav>
   </div>
@@ -136,12 +121,12 @@ export const addressInline = () => addressLines().join(', ');
 
 export function footer() {
   return html`<footer class="site-footer on-dark">
-  ${stems('right', 6)}
   <div class="foot-grid">
     <div class="foot-brand">
       <a class="wordmark" href="/" aria-label="${esc(config.brand.name)} home">${crown()}<span class="wordmark__name">${esc(config.brand.shortName)} <small>Safaris</small></span></a>
-      <p class="mt-s">${esc(config.brand.description)}</p>
-      <address>${addressLines().map(esc).join('<br>')}<br><a href="mailto:${config.contact.email}">${config.contact.email}</a></address>
+      <p class="mt-s">Uganda planned by forest, river and swamp.</p>
+      <p><a href="mailto:${config.contact.email}">${config.contact.email}</a></p>
+      <address>${esc(addressInline())}</address>
     </div>
     <div><h2>Destinations</h2><ul>${destinations.slice(0, 10).map((d) => `<li><a href="/destinations/${d.slug}">${esc(d.short)}</a></li>`).join('')}</ul></div>
     <div><h2>Plan</h2><ul>
@@ -158,16 +143,10 @@ export function footer() {
       <li><a href="/destinations">All destinations</a></li>
       <li><a href="/credits">Photo credits</a></li>
     </ul></div>
-    <div><h2>Legal</h2><ul>
-      <li><a href="/privacy">Privacy Policy</a></li>
-      <li><a href="/booking-terms">Booking Terms</a></li>
-      <li><a href="/cookies">Cookie Policy</a></li>
-    </ul></div>
   </div>
-  <p class="foot-mark" aria-hidden="true">Nile Source<span>.</span></p>
   <div class="foot-bottom">
-    <p class="mb-0">© ${new Date().getFullYear()} ${esc(config.brand.name)}. ${esc(config.address.city)}, ${esc(config.address.country)}.</p>
-    <ul><li><a href="/privacy">Privacy</a></li><li><a href="/booking-terms">Booking Terms</a></li><li><a href="/cookies">Cookies</a></li><li><a href="#top">Back to top ↑</a></li></ul>
+    <p class="mb-0">© ${new Date().getFullYear()} ${esc(config.brand.name)}</p>
+    <ul><li><a href="/privacy">Privacy Policy</a></li><li><a href="/booking-terms">Booking Terms</a></li><li><a href="/cookies">Cookie Policy</a></li></ul>
   </div>
 </footer>`;
 }
@@ -249,14 +228,12 @@ export function sectionHead({ eyebrow, title, count, aside, link }) {
 export function railNav(id) {
   return `<div class="rail-nav" data-rail-nav="${id}"><button type="button" data-dir="-1" aria-label="Previous">${arrowL}</button><button type="button" data-dir="1" aria-label="Next">${arrow}</button></div>`;
 }
-export function cta({ title = 'Tell us when. We’ll find the sector.', text = 'Your dates, who is coming and what you hope to see. One planner reads it, replies with a first route and tells you which permits to secure first.', image = 'papyrus-mist', fig = 'Fog over papyrus, western Uganda' } = {}) {
-  return `<section class="fullbleed cta" aria-labelledby="cta-title">
+// F2: a short full-width photo strip with one line and one button, just above the footer.
+export function cta({ title = 'Tell us when. We’ll find the sector.', image = 'papyrus-mist' } = {}) {
+  return `<section class="fband" aria-labelledby="cta-title">
   ${picture(image, { sizes: '100vw', alt: '' })}
-  <p class="fig"><b>Fig.</b>${esc(fig)}</p>
-  <div class="fullbleed__inner">
-    <h2 class="h1" id="cta-title" data-reveal>${title}</h2>
-    <div class="fullbleed__aside cta__aside" data-reveal style="--d:.1s"><p>${esc(text)}</p>${btn('/enquire', 'Plan a journey', 'btn--crown')}</div>
-  </div>
+  <div class="fband__in"><h2 id="cta-title">${title}</h2>${btn('/enquire', 'Plan a journey', 'btn--crown')}</div>
 </section>`;
 }
-export const dots = (n, of = 5) => `<span class="dots" role="img" aria-label="Difficulty ${n} of ${of}">${Array.from({ length: of }, (_, i) => `<i class="${i < n ? 'on' : ''}"></i>`).join('')}</span>`;
+// Difficulty as words (the 1-5 dot gauge is retired).
+export const dots = (n) => `<span class="difficulty">${['', 'Easy', 'Moderate', 'Moderate to hard', 'Hard', 'Very hard'][n] || ''}</span>`;
