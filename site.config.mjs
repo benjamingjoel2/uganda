@@ -14,8 +14,8 @@ export default {
 
   // Canonical domain (used for canonical links, sitemap and JSON-LD).
   siteUrl: 'https://nilesourcesafaris.tourground.com',
-  // Where the site is currently deployed (Vercel). Filled in after deployment.
-  liveUrl: 'https://uganda-delta.vercel.app',
+  // The live address (tourground.com domain attached to the Vercel project `uganda`).
+  liveUrl: 'https://nilesourcesafaris.tourground.com',
 
   contact: {
     // The only email address used anywhere on the site.

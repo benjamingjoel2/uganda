@@ -139,7 +139,7 @@ ${imageHero({ img: 'crane-head', fig: 'Grey crowned crane, Echuya Forest Reserve
 <section class="section wrap">
   <div class="grid intro">
     <div class="intro__text" data-reveal>
-      <div class="crown-rule">${crown()}</div>
+      
       <span class="eyebrow">Our story</span>
       <h2 class="h2">A shoebill, a crane and a country that lives at its edges.</h2>
       <p class="lede">At Mabamba, an hour from Entebbe, the canoe slides into the papyrus before the heat. The boatman stops and points. A shoebill stands in the channel, grey as wet slate. Behind it, where the swamp gives way to grazing, a pair of crested cranes walk with their gold crowns catching the low sun.</p>
