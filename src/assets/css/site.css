@@ -20,7 +20,7 @@
   --fs-h3: clamp(1.5rem, 1.25rem + 1vw, 2rem);
   --fs-h2: clamp(2.25rem, 1.6rem + 3vw, 4.25rem);
   --fs-h1: clamp(2.4rem, 1.4rem + 3.6vw, 4.8rem);
-  --fs-hero: clamp(2.6rem, 1.4rem + 4.2vw, 5.4rem);
+  --fs-hero: clamp(3.5rem, 1.4rem + 9.6vw, 10.5rem);
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -184,6 +184,8 @@ ul, ol { margin: 0; padding: 0; }
   linear-gradient(90deg, rgba(22,32,26,.62) 0%, rgba(22,32,26,.3) 45%, rgba(22,32,26,0) 70%),
   radial-gradient(120% 60% at 20% 100%, rgba(22,32,26,.82) 0%, rgba(22,32,26,.35) 55%, rgba(22,32,26,0) 80%),
   linear-gradient(0deg, rgba(22,32,26,.75) 0%, rgba(22,32,26,0) 55%); }
+.hero::after { content: ''; position: absolute; inset: auto 0 0; height: 45%; z-index: 1; pointer-events: none; background: linear-gradient(0deg, rgba(220,227,198,.10), rgba(220,227,198,0)); mix-blend-mode: screen; }
+.hero--home::after { height: 100%; inset: 0; background: radial-gradient(42% 38% at 74% 12%, rgba(226,178,60,.32), rgba(226,178,60,0) 70%), linear-gradient(0deg, rgba(220,227,198,.10), rgba(220,227,198,0) 45%); }
 @media (max-width: 999px) {
   .hero--home > picture { bottom: auto; height: 66%; }
   .hero--home::before { background:
@@ -584,11 +586,8 @@ fieldset.field { border: 0; margin: 0; padding: 0; }
 main > section:not(:first-child), main > figure:not(:first-child), main > div.wrap, .site-footer { content-visibility: auto; contain-intrinsic-size: auto 900px; }
 main > section.fullbleed { contain-intrinsic-size: auto 88svh; }
 
-/* Home hero (H1 full photo): small headline bottom-left, one line, one link */
-.hero__title--small { font-family: var(--display); font-weight: 500; font-size: clamp(2.4rem, 1.4rem + 3.4vw, 4.4rem); line-height: 1; letter-spacing: -.02em; max-width: 12ch; color: var(--mist); }
-.hero--home .hero__body { padding-bottom: clamp(32px, 5vw, 64px); }
-.hero__link { margin-top: 22px; }
-.hero .link-arrow { color: var(--mist); }
+/* Hero titles keep their original size (the sitewide --fs-h1 cap applies to section headings only). */
+.hero .h1.hero__title, .page-head .h1 { font-size: clamp(3rem, 1.6rem + 6.4vw, 7.5rem); }
 .difficulty { font-weight: 600; }
 
 /* F2 photo band above the footer */

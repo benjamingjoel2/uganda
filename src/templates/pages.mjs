@@ -63,10 +63,14 @@ export function home() {
   const body = html`
 <section class="hero hero--home" aria-labelledby="hero-title">
   ${picture('hero-crane', { sizes: '100vw', eager: true, priority: true, position: '50% 30%' })}
+  <div class="hero__top"><p class="fig"><b>Fig. 01</b>Grey crowned crane, papyrus edge near Lake Bunyonyi</p><p class="fig">00°19′N 32°35′E · Kampala</p></div>
   <div class="hero__body">
-    <h1 class="hero__title hero__title--small" id="hero-title">Uganda, from the source.</h1>
-    <p class="hero__lede">Gorillas in Bwindi, chimps in Kibale, the Nile where it begins and lions in the fig trees, with real guides.</p>
-    <p class="hero__link">${linkArrow('/enquire', 'Plan a journey')}</p>
+    <h1 class="display hero__title" id="hero-title">Uganda, from the source.</h1>
+    <p class="hero__lede">The primate and birding capital of Africa: gorillas in Bwindi, chimps in Kibale, the Nile where it begins and lions in the fig trees, with real guides.</p>
+  </div>
+  <div class="hero__bar">
+    <ul class="hero__meta"><li>Gorillas · Bwindi</li><li>Chimps · Kibale</li><li>The Nile · Jinja</li><li>Tree lions · Ishasha</li></ul>
+    ${btn('/enquire', 'Plan a journey', 'btn--light')}
   </div>
 </section>
 
